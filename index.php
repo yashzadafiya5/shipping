@@ -1,6 +1,30 @@
 <?php
 require_once("inc/header.php")
 ?>
+<style>
+    .slidetext
+    {
+        font-size: larger;    }
+    @media (min-width: 767px) and (max-width: 990px) {
+
+    }
+    @media (min-width: 320px) and (max-width: 767px) {
+        .imgi>img
+        {
+            height: 500px;
+            width: 400px;
+        }
+        .slidetext
+        {
+            font-size: small;
+        }
+        .h1
+        {
+            font-size: x-large;
+            text-align: left;
+        }
+    }
+</style>
 </head>
 
 <body>
@@ -17,7 +41,7 @@ require_once("inc/header.php")
 require_once("inc/menu.php")
 ?>
     <!-- Carousel Start -->
-    <div class="container-fluid p-0 pb-5">
+    <!-- <div class="container-fluid p-0 pb-5">
         <div class="owl-carousel header-carousel position-relative mb-5">
             <div class="owl-carousel-item position-relative">
                 <img class="img-fluid" src="images/ship1.jpg" alt="">
@@ -38,24 +62,109 @@ require_once("inc/menu.php")
                     </div>
                 </div>
             </div>
-            <!-- <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="images/ship2.jpg" alt="">
-                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(6, 3, 21, .5);">
+            
+        </div>
+    </div> -->
+    <!-- slider -->
+  <div class="container-fluid  p-0 pb-5">
+    <div class="row">
+      <div class="col-lg-12" >
+        <div
+          id="carouselWithCaptions"
+          class="carousel slide pointer-event"
+          data-bs-ride="carousel"
+        >
+          <ol class="carousel-indicators indicator">
+            <li
+              data-bs-target="#carouselWithCaptions"
+              data-bs-slide-to="0"
+              class=""
+            ></li>
+            <li
+              data-bs-target="#carouselWithCaptions"
+              data-bs-slide-to="1"
+              class=""
+            ></li>
+            <li
+              data-bs-target="#carouselWithCaptions"
+              data-bs-slide-to="2"
+              class="active"
+              aria-current="true"
+            ></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item imgi">
+              <img
+                src="images/ship1 (1).jpg"
+                class="d-block w-100 image-fluid mainsliders" 
+                alt="Slide 1"
+                
+                
+              />
+              
+            </div>
+            <div class="carousel-item imgi">
+              <img
+                src="images/ship1 (2).jpg"
+                class="d-block w-100 mainsliders "
+                alt="Slide 2"
+              />
+              
+            </div>
+            <div class="carousel-item active imgi">
+              <img
+                src="images/ship1 (3).jpg"
+                class="d-block w-100 mainsliders"
+                alt="Slide 3"
+              />
+              
+            </div>
+          </div>
+          <a
+            class="carousel-control-prev"
+            href="#carouselWithCaptions"
+            role="button"
+            data-bs-slide="prev"
+          >
+            <span
+              class="carousel-control-prev-icon"
+              aria-hidden="true"
+            ></span>
+            <span class="visually-hidden">Previous</span>
+          </a>
+          <a
+            class="carousel-control-next"
+            href="#carouselWithCaptions5
+            role="button"
+            data-bs-slide="next"
+          >
+            <span
+              class="carousel-control-next-icon"
+              aria-hidden="true"
+            ></span>
+            <span class="visually-hidden">Next</span>
+          </a>
+          
+          <div class=" position-absolute top-0 start-0 h-100 w-100 d-flex align-items-center" style="background: rgba(6, 3, 21, .5);  ">
                     <div class="container">
                         <div class="row justify-content-start">
-                            <div class="col-10 col-lg-8">
+                            <div class="col-10 col-lg-8" style="margin-left: 30px;">
                                 <h5 class="text-white text-uppercase mb-3 animated slideInDown">SHIP BREAKING</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">SAMAIRA GREEN SHIP RECYCLING</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint atque tenetur, ipsa odio, illo rem amet dolores autem vero iste, tempore id ad. Quia enim alias eos nesciunt, id molestiae.
-                                </p>
+                                <h1 class="display-2 text-white animated slideInDown mb-4 h1">SAMAIRA GREEN SHIP RECYCLING
+                                </h1>
+                                <p class="fw-medium text-white mb-4 pb-2 slidetext">Lorem ipsum dolor sit amet consectetur
+                                    adipisicing elit. Error ratione quidem natus quia. Fugiat numquam ut quod reiciendis
+                                    fugit, nobis architecto odit incidunt quidem, obcaecati beatae, necessitatibus cum
+                                    ducimus ratione!</p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div> -->
         </div>
+      </div>
     </div>
+</div>
+  <!-- slider -->
     <!-- Carousel End -->
     <div class="container-fluid overflow-hidden py-5 px-lg-0">
         <div class="container feature py-5 px-lg-0">
