@@ -24,6 +24,14 @@ require_once("inc/header.php")
             text-align: left;
         }
     }
+    .click>h6
+    {
+        color: #FF3E41;
+    }
+    .click>h6:hover
+    {
+        color: rgb(9, 232, 232);
+    }
 </style>
 </head>
 
@@ -38,33 +46,8 @@ require_once("inc/header.php")
     <!-- Spinner End -->
     <!-- Navbar Start -->
     <?php
-require_once("inc/menu.php")
-?>
-    <!-- Carousel Start -->
-    <!-- <div class="container-fluid p-0 pb-5">
-        <div class="owl-carousel header-carousel position-relative mb-5">
-            <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src="images/ship1.jpg" alt="">
-                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center"
-                    style="background: rgba(6, 3, 21, .5);">
-                    <div class="container">
-                        <div class="row justify-content-start">
-                            <div class="col-10 col-lg-8">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">SHIP BREAKING</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">SAMAIRA GREEN SHIP RECYCLING
-                                </h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Lorem ipsum dolor sit amet consectetur
-                                    adipisicing elit. Error ratione quidem natus quia. Fugiat numquam ut quod reiciendis
-                                    fugit, nobis architecto odit incidunt quidem, obcaecati beatae, necessitatibus cum
-                                    ducimus ratione!</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-        </div>
-    </div> -->
+        require_once("inc/menu.php")
+    ?>
     <!-- slider -->
   <div class="container-fluid  p-0 pb-5">
     <div class="row">
@@ -93,7 +76,7 @@ require_once("inc/menu.php")
             ></li>
           </ol>
           <div class="carousel-inner">
-            <div class="carousel-item imgi">
+            <div class="carousel-item imgi active ">
               <img
                 src="images/ship1 (1).jpg"
                 class="d-block w-100 image-fluid mainsliders" 
@@ -111,7 +94,7 @@ require_once("inc/menu.php")
               />
               
             </div>
-            <div class="carousel-item active imgi">
+            <div class="carousel-item imgi">
               <img
                 src="images/ship1 (3).jpg"
                 class="d-block w-100 mainsliders"
@@ -120,31 +103,15 @@ require_once("inc/menu.php")
               
             </div>
           </div>
-          <a
-            class="carousel-control-prev"
-            href="#carouselWithCaptions"
-            role="button"
-            data-bs-slide="prev"
-          >
-            <span
-              class="carousel-control-prev-icon"
-              aria-hidden="true"
-            ></span>
+           <button class="carousel-control-prev" type="button" data-bs-target="#carouselWithCaptions" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Previous</span>
-          </a>
-          <a
-            class="carousel-control-next"
-            href="#carouselWithCaptions5
-            role="button"
-            data-bs-slide="next"
-          >
-            <span
-              class="carousel-control-next-icon"
-              aria-hidden="true"
-            ></span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselWithCaptions" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="visually-hidden">Next</span>
-          </a>
-          
+          </button>
+        
           <div class=" position-absolute top-0 start-0 h-100 w-100 d-flex align-items-center" style="background: rgba(6, 3, 21, .5);  ">
                     <div class="container">
                         <div class="row justify-content-start">
@@ -253,12 +220,14 @@ require_once("inc/menu.php")
                         rkb group is one the initial companies which started the operations at along at its starting only. With along rkb group seen every phase of the business like initial infrastructure development and struggling of 90s great pick of the industry in the last decade of 20th century and a fast recession in the ship breaking industry in the initial years of 21st century.
                         
                     </p>
-                    <div class="d-flex align-items-center">
-                        <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i>
-                        <div class="ps-4">
-                            <h6>Call for any query!</h6>
-                            <h3 class="text-primary m-0">9514865236</h3>
-                        </div>
+                    <div >
+                        <a href="contact.php" class="d-flex align-items-center">
+                            <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i>
+                            <div class="ps-4 click">
+                                <h3 style="font-family: 'Inter', sans-serif;">contact for any qutions!</h3>
+                                <h6 class=" m-0 ">Click Here >>></h6>
+                            </div>
+                        </a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -277,7 +246,7 @@ require_once("inc/menu.php")
                         </div>
                         <div class="col-sm-6">
                             <div class="bg-success p-4 mb-4 wow fadeIn" data-wow-delay="0.7s">
-                                <i class="fa fa-certificate" aria-hidden="true"></i>
+                                <i class="fa fa-certificate fa-2x text-white mb-3" aria-hidden="true"></i>
                                 <h2 class="text-white mb-2" data-toggle="counter-up">122</h2>
                                 <p class="text-white mb-0">Certificates</p>
                             </div>
@@ -299,13 +268,14 @@ require_once("inc/menu.php")
             <div class="row g-5 mx-lg-0">
                 <div class="col-lg-6 feature-text wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase mb-3">CHAIRMAN</h6>
-                    <h1 class="mb-5">CHAIR MANS MESSAGE</h1>
+                    <h1 class="mb-5">CHAIRMAN'S MESSAGE</h1>
                     <div class="d-flex mb-5 wow fadeInUp" data-wow-delay="0.3s">
                         
                         <!-- <i class="fa fa-sailboat text-primary fa-3x flex-shrink-0"></i> -->
                         <div class="ms-4">
                             <h5>Green Ship Recycling</h5>
-                            <p class="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+                            <p class="mb-0">
+                                ship breaking is the flagship business activity of rkb group. With experience of more than 30 years group is the pioneer of the ship breaking industry at alang-bhavnagar, Asia largest ship breaking yard.</p>
                         </div>
                     </div>
                     <div class="d-flex mb-5 wow fadeIn" data-wow-delay="0.5s">
@@ -319,7 +289,14 @@ require_once("inc/menu.php")
                        <!-- <i class="fa fa-globe text-primary fa-3x flex-shrink-0"></i> -->
                         <div class="ms-4">
                             <h5>TEAM SUPPORT</h5>
-                            <p class="mb-0">Diam dolor ipsum sit amet eos erat ipsum lorem sed stet lorem sit clita duo justo magna erat amet</p>
+                            <p class="mb-0">Don't believe in just yourself, believe in your team.
+                                <ul>
+                                    <li>Fire Fighting Team</li>
+                                    <li>Ship Broken team</li>
+                                    <li>Trainer Team</li>
+                                    <li>Helth & Safty Team</li>
+                                </ul>
+                            </p>
                         </div>
                     </div>
                 </div>
