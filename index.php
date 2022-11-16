@@ -152,10 +152,7 @@ require_once("inc/menu.php")
                                 <h5 class="text-white text-uppercase mb-3 animated slideInDown">SHIP BREAKING</h5>
                                 <h1 class="display-2 text-white animated slideInDown mb-4 h1">SAMAIRA GREEN SHIP RECYCLING
                                 </h1>
-                                <p class="fw-medium text-white mb-4 pb-2 slidetext">Lorem ipsum dolor sit amet consectetur
-                                    adipisicing elit. Error ratione quidem natus quia. Fugiat numquam ut quod reiciendis
-                                    fugit, nobis architecto odit incidunt quidem, obcaecati beatae, necessitatibus cum
-                                    ducimus ratione!</p>
+                                <p class="fw-medium text-white mb-4 pb-2 slidetext">Ship breaking is the flagship business activity of RKB Group. With experience of more than 30 years group is the pioneer of the ship breaking industry at Alang-Bhavnagar, Asia's Largest ship breaking yard.</p>
                             </div>
                         </div>
                     </div>
@@ -177,16 +174,18 @@ require_once("inc/menu.php")
                         <!-- <i class="fa fa-sailboat text-primary fa-3x flex-shrink-0"></i> -->
                         <div class="ms-4">
                             <h5>Green Ship Recycling</h5>
-                            <p class="mb-0">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore rerum minus
-                                doloribus! A harum optio dicta ratione nesciunt blanditiis quis animi, laudantium non
-                                doloremque. Laborum veniam in delectus dolores temporibus.</p>
+                            <p class="mb-0">With its production facilities and adapted organizational approach in state-of-
+                                the-art shipbuilding, Shipbuilding has every reason to look forward to a healthy continue of its long tradition.
+                                2004 saw the completion of the cover of Dock 2, in which large vessels, such as
+                                Lading Platform Docks can be constructed and overhauled.Since 2006 major
+                                investments have been made at the Vlissingen East facility</p>
                             <a href="about_us.php" class="btn btn-primary mt-5 py-3 px-5">Read more</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-6 pe-lg-0 wow fadeInRight" data-wow-delay="0.1s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="images/ship2.jpg"
+                        <img class="position-absolute img-fluid w-100 h-100" src="images/about.jpg"
                             style="object-fit: cover;" alt="">
                     </div>
                 </div>
@@ -204,10 +203,10 @@ require_once("inc/menu.php")
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="service-item p-4">
                         <div class="overflow-hidden mb-4">
-                            <img class="img-fluid" style="height: 198px; width:307px" src="images/ship4.jpg" alt="">
+                            <img class="img-fluid" style="height: 198px; width:307px" src="images/enviro.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Enviroment Management</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>While ships sometimes carry waste materials as cargo, a ship itself is also considered as waste when the decision is made to dismantle .</p>
                         <a class="btn-slide mt-2" href="enviroment_management.php"><i
                                 class="fa fa-arrow-right"></i><span>Read More</span></a>
                     </div>
@@ -215,10 +214,12 @@ require_once("inc/menu.php")
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="service-item p-4">
                         <div class="overflow-hidden mb-4">
-                            <img class="img-fluid" src="images/firstaid3.jpg" style="height: 198px; width:307px" alt="">
+                            <img class="img-fluid" src="images/helth.jpg" style="height: 198px; width:307px" alt="">
                         </div>
                         <h4 class="mb-3">HEALTH AND SAFETY</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p class="text-center"><br>
+                            “Safety First-Then Production”<br>
+                            “Ensure to Employ only Trained Workers”</p>
                         <a class="btn-slide mt-2" href="health_safety.php"><i class="fa fa-arrow-right"></i><span>Read
                                 More</span></a>
                     </div>
@@ -229,7 +230,7 @@ require_once("inc/menu.php")
                             <img class="img-fluid" style="height: 198px; width:307px" src="images/tra4.jpg" alt="">
                         </div>
                         <h4 class="mb-3">Training</h4>
-                        <p>Stet stet justo dolor sed duo. Ut clita sea sit ipsum diam lorem diam.</p>
+                        <p>Train with confidence, believe in yourself <br>Improve yourself, be a better you <br>Best trainers, amazing results </p>
                         <a class="btn-slide mt-2" href="training.php"><i class="fa fa-arrow-right"></i><span>Read
                                 More</span></a>
                     </div>
@@ -245,7 +246,12 @@ require_once("inc/menu.php")
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <!-- <h6 class="text-secondary text-uppercase mb-3">Some Facts</h6> -->
                     <h1 class="mb-5">#1 Ship BREAKING company</h1>
-                    <p class="mb-5">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam sit hic quos, id, nam illo iste fugiat quod adipisci provident blanditiis dolore architecto aliquam beatae tempore qui culpa impedit quidem?
+                    <p class="mb-5" style="font-family: 'Inter', sans-serif;">
+
+                        ship breaking is the flagship business activity of rkb group. With experience of more than 30 years group is the pioneer of the ship breaking industry at alang-bhavnagar, Asia largest ship breaking yard.
+                        <br>
+                        rkb group is one the initial companies which started the operations at along at its starting only. With along rkb group seen every phase of the business like initial infrastructure development and struggling of 90s great pick of the industry in the last decade of 20th century and a fast recession in the ship breaking industry in the initial years of 21st century.
+                        
                     </p>
                     <div class="d-flex align-items-center">
                         <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i>
@@ -270,12 +276,18 @@ require_once("inc/menu.php")
                             </div>
                         </div>
                         <div class="col-sm-6">
-                            <div class="bg-success p-4 wow fadeIn" data-wow-delay="0.7s">
-                                <i class="fa fa-star fa-2x text-white mb-3"></i>
+                            <div class="bg-success p-4 mb-4 wow fadeIn" data-wow-delay="0.7s">
+                                <i class="fa fa-certificate" aria-hidden="true"></i>
                                 <h2 class="text-white mb-2" data-toggle="counter-up">122</h2>
                                 <p class="text-white mb-0">Certificates</p>
                             </div>
+                            <div class="bg-warning p-4 wow fadeIn" data-wow-delay="0.5s">
+                                <i class="fa fa-star fa-2x text-white mb-3"></i>
+                                <h2 class="text-white mb-2" data-toggle="counter-up">50</h2>
+                                <p class="text-white mb-0">Reviews </p>
+                            </div>
                         </div>
+                        
                     </div>
                 </div>
             </div>
