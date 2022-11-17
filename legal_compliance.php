@@ -77,29 +77,29 @@ require_once("inc/menu.php")
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal1.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/oxygen (1).jpg"
+                            >
                     </div>
                 </div>
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal2.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/oxygen (2).jpg"
+                            >
                     </div>
                 </div>
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal3.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/oxygen (3).jpg"
+                            >
                     </div>
                 </div>
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal2.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/oxygen (4).jpg"
+                            >
                     </div>
                 </div>
             </div>
@@ -117,29 +117,29 @@ require_once("inc/menu.php")
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal1.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/lpg (1).jpg"
+                            >
                     </div>
                 </div>
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal2.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/lpg (2).jpg"
+                            >
                     </div>
                 </div>
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal3.jpg"
-                            style="width: 380px; height: 280px;">
-                    </div>
+                        <img class="img-fluid flex-shrink-0" src="images/lpg (3).jpg"
+                            >
+                    </div>2
                 </div>
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal2.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/lpg.jpg"
+                            >
                     </div>
                 </div>
             </div>
@@ -157,29 +157,36 @@ require_once("inc/menu.php")
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal1.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/electricpanel (1).jpg"
+                            >
                     </div>
                 </div>
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal2.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/electricpanel (2).jpg"
+                            >
                     </div>
                 </div>
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal3.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/electricpanel (3).jpg"
+                            >
                     </div>
                 </div>
                 <div class="testimonial-item p-2 ">
                     <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
                     <div class="d-flex align-items-end mb-2">
-                        <img class="img-fluid flex-shrink-0" src="images/legal2.jpg"
-                            style="width: 380px; height: 280px;">
+                        <img class="img-fluid flex-shrink-0" src="images/electricpanel (4).jpg"
+                            >
+                    </div>
+                </div>
+                <div class="testimonial-item p-2 ">
+                    <!-- <i class="fa fa-quote-right fa-3x text-light position-absolute top-0 end-0 mt-n3 "></i> -->
+                    <div class="d-flex align-items-end mb-2">
+                        <img class="img-fluid flex-shrink-0" src="images/electricpanel (5).jpg"
+                            >
                     </div>
                 </div>
             </div>
@@ -193,16 +200,23 @@ require_once("inc/menu.php")
                 <div class="col-lg-6 feature-text wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase mb-3">Calibration status </h6>
                     <h1 class="mb-5">Calibration status on gas meter </h1>
-                    <div class="d-flex mb-5 wow fadeInUp" data-wow-delay="0.3s">
-
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis adipisci autem facere repellendus consequuntur aliquid repudiandae esse totam nemo, recusandae quaerat hic ducimus? Reprehenderit quia labore a in, voluptates ratione.
-                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa ut rem praesentium, nam voluptas enim velit exercitationem quis maxime sequi quasi, aliquid, blanditiis molestias hic. Ea qui cupiditate laboriosam velit.
-                        
+                    <div class=" mb-5 wow fadeInUp" data-wow-delay="0.3s">
+                        A gas flow meter is used to measure the volumetric or mass flow rate of various process gases in industrial plants and machinery. The flow rate refers to the speed at which fluid is moving through closed pipes or ducts at a given time. <br><br>
+                        <h4>Types of Gas Flow Meters Available in Market</h4>
+                        <p>Various flowmeter technologies are available currently in the market which needs to be calibrated and there are different methods for calibration based on product design. </p>
+                        <ul>
+                            <li>Turbine flowmeter</li>
+                            <li>Vortex flowmeter</li>
+                            <li>Coriolis flowmeter</li>
+                            <li>Thermal Mass flowmeter</li>
+                            <li>Ultrasonic flowmeter</li>
+                        </ul>
+                        <p>and there are different methods for calibration based on product design.  </p>
                     </div>
                 </div>
-                <div class="col-lg-6 pe-lg-0 wow fadeInRight" data-wow-delay="0.1s" style="min-height: 400px;">
+                <div class="col-lg-6 pe-lg-0 wow fadeInRight" data-wow-delay="0.1s" style="min-height: 450px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="images/ship8.jpg"
+                        <img class="position-absolute img-fluid w-100 h-100" src="images/gasmeter.jpg"
                             style="object-fit: cover;" alt="">
                     </div>
                 </div>
@@ -216,16 +230,14 @@ require_once("inc/menu.php")
             <div class="row g-5 mx-lg-0">
                 <div class="col-lg-6 ps-lg-0 wow fadeInLeft" data-wow-delay="0.1s" style="min-height: 400px;">
                     <div class="position-relative h-100">
-                        <img class="position-absolute img-fluid w-100 h-100" src="images/logo2.jpg"
+                        <img class="position-absolute img-fluid w-100 h-100" src="images/fire.jpg"
                             style="object-fit: cover; height:573px; width:650px " alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 about-text wow fadeInUp" data-wow-delay="0.3s">
                     <h6 class="text-secondary text-uppercase mb-3">Sticker </h6>
-                    <h1 class="mb-5">Sticker on fire extinguisher </h1>
-                    <p class="mb-5">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
-                        eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque eos repudiandae animi perferendis nostrum provident eum hic atque cupiditate voluptas error, odit, asperiores a? Soluta impedit suscipit odit nobis! Cupiditate.
+                    <h1 class="mb-5">Sticker On Fire Extinguisher </h1>
+                    <p class="mb-5">A fire extinguisher is a handheld active fire protection device usually filled with a dry or wet chemical used to extinguish or control small fires, often in emergencies. It is not intended for use on an out-of-control fire, such as one which has reached the ceiling, endangers the user, or otherwise requires the equipment, personnel, resources, and/or expertise of a fire brigade. Typically, a fire extinguisher consists of a hand-held cylindrical pressure vessel containing an agent that can be discharged to extinguish a fire. Fire extinguishers manufactured with non-cylindrical pressure vessels also exist but are less common.
                     </p>
                 </div>
             </div>

@@ -112,7 +112,7 @@ require_once("inc/header.php")
             <span class="visually-hidden">Next</span>
           </button>
         
-          <div class=" position-absolute top-0 start-0 h-100 w-100 d-flex align-items-center" style="background: rgba(6, 3, 21, .5);  ">
+        <div class=" position-absolute top-0 start-0 h-100 w-100 d-flex align-items-center" style="background: rgba(6, 3, 21, .5);  ">
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8" style="margin-left: 30px;">
@@ -123,7 +123,7 @@ require_once("inc/header.php")
                             </div>
                         </div>
                     </div>
-                </div>
+        </div>
         </div>
       </div>
     </div>

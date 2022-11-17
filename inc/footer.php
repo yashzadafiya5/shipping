@@ -18,15 +18,18 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Services</h4>
                     <a class="btn btn-link" href="enviroment_management.php">Enviroment MAnagement</a>
-                    <a class="btn btn-link" href="haz_waste_mang.php">haz waste managment</a>
+                    <a class="btn btn-link" href="training.php">Training</a>
+                    <a class="btn btn-link" href="health_safety.php">Helth & Safety</a>
                     <!-- <a class="btn btn-link" href="#">Road Freight</a>
                     <a class="btn btn-link" href="#">Logistic Solutions</a>
                     <a class="btn btn-link" href="#">Industry solutions</a> -->
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Quick Links</h4>
+                    <a class="btn btn-link" href="index.php">Home</a>
                     <a class="btn btn-link" href="about_us.php">About Us</a>
                     <a class="btn btn-link" href="contact.php">Contact Us</a>
+                    <a class="btn btn-link" href="photo_galley.php">Gallery</a>
                     <!-- <a class="btn btn-link" href="#">Our Services</a>
                     <a class="btn btn-link" href="#">Terms & Condition</a>
                     <a class="btn btn-link" href="#">Support</a> -->
@@ -48,7 +51,7 @@
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        Designed By <a class="border-bottom" href="https://theeasylearnacademy.com/">The Easylearn Acadamey</a>
+                        Designed By : <a class="border-bottom" href="http:theeasylearnacadamy.com" style='text-decoration:none;'>The Easylearn Acadamey</a>
                     </div>
                 </div>
             </div>
