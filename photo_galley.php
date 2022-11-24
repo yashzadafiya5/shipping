@@ -18,102 +18,73 @@ require_once("inc/menu.php")
 ?>
     <!-- Navbar End -->
     <!-- Page Header Start -->
-  
-    <div class="container-fluid page-header py-5" style="margin-bottom: 1rem; marging-top:100px;">
+    <div class="container-fluid page-header py-5" style="margin-bottom: 6rem;">
         <div class="container py-5">
-        <h1 class="display-3 text-white mb-3 animated slideInDown">Photo gallery</h1>
-        <h3 class="text-white" >Exceptional works inside.</h3>
+            <h1 class="display-3 text-white mb-3 animated slideInDown">Photo gallery</h1>
+            <!-- <nav aria-label="breadcrumb animated slideInDown">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a class="text-white" href="#">Home</a></li>
+                    <li class="breadcrumb-item"><a class="text-white" href="#">Pages</a></li>
+                    <li class="breadcrumb-item text-white active" aria-current="page">404</li>
+                </ol>
+            </nav> -->
         </div>
     </div>
     <!-- Page Header End -->
     <!-- 404 Start -->
-
     <div class="container-xxl py-5">
-        <div class="container py-5 ">
+        <div class="container py-5">
             <div class="row g-4">
                 <div class="text-center wow fadeInUp mb-5" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase">samaira green recycling</h6>
                     <!-- <h1 class="mb-5">HEALTH AND SAFETY</h1> -->
-                    <h2 class="mb-2" style="text-transform:uppercase;">photo gallery</h2>
+                    <h2 class="mb-5" style="text-transform:uppercase;">photo gallery</h2>
                 </div>
-                <div class="row">
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" style="margin-top:-50px;" data-wow-delay="0.3s">
+                    <div class="service-item p-4">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" style="height: 361px; width: 498px;" src="images/g1.jpg" alt="">
+                        </div>
                     </div>
-                    <!-- /lc-block -->
                 </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" style="margin-top:-50px;" data-wow-delay="0.5s">
+                    <div class="service-item p-4">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" src="images/certi2.jpg" style="height: 361px; width: 498px;" alt="">
+                        </div>
                     </div>
-                    <!-- /lc-block -->
                 </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" style="margin-top:-50px;" data-wow-delay="0.7s">
+                    <div class="service-item p-4">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" src="images/certi3.jpg" style="height: 361px; width: 498px;" alt="">
+                        </div>
                     </div>
-                    <!-- /lc-block -->
                 </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" style="margin-top:-50px;" data-wow-delay="0.3s">
+                    <div class="service-item p-4">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" style="height: 361px; width: 498px;" src="images/ship8.jpg" alt="">
+                        </div>
                     </div>
-                    <!-- /lc-block -->
                 </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" style="margin-top:-50px;" data-wow-delay="0.5s">
+                    <div class="service-item p-4">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" src="images/ship5.jpg" style="height: 361px; width: 498px;" alt="">
+                        </div>
                     </div>
-                    <!-- /lc-block -->
                 </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
+                <div class="col-md-6 col-lg-4 wow fadeInUp" style="margin-top:-50px;" data-wow-delay="0.7s">
+                    <div class="service-item p-4">
+                        <div class="overflow-hidden mb-4">
+                            <img class="img-fluid" src="images/ship2.jpg" style="height: 361px; width: 498px;" alt="">
+                        </div>
                     </div>
-                    <!-- /lc-block -->
-                </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
-                    </div>
-                    <!-- /lc-block -->
-                </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
-                    </div>
-                    <!-- /lc-block -->
-                </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
-                    </div>
-                    <!-- /lc-block -->
-                </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
-                    </div>
-                    <!-- /lc-block -->
-                </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
-                    </div>
-                    <!-- /lc-block -->
-                </div>
-                <div class="col-md-6 col-lg-4 g-4">
-                    <div class="lc-block">
-                        <img class="img-fluid" src="samiyra\images\final jpeg\1 outside gate.jpg">
-                    </div>
-                    <!-- /lc-block -->
-                </div>
                 </div>
             </div>
         </div>
     </div>
-    
     <!-- 404 End -->
 
 
